@@ -4,7 +4,7 @@
 This project is an interactive **IoT Football Game Prototype** built using Arduino components.  
 It automatically detects goals using **ultrasonic sensors**, updates live scores on an **LCD display**, and controls **servo motors** to simulate player movement.  
 
-## 🚀 Features
+## Features
 
 - Automatic goal detection using **ultrasonic sensors**
 - Real-time score display on **16x2 I2C LCD**
@@ -14,7 +14,7 @@ It automatically detects goals using **ultrasonic sensors**, updates live scores
 
 ---
 
-## 🧠 Components Used
+## Components Used
 
 | Component | Description |
 |------------|-------------|
@@ -27,7 +27,7 @@ It automatically detects goals using **ultrasonic sensors**, updates live scores
 
 ---
 
-## 🧩 Required Libraries
+## Required Libraries
 
 Make sure the following Arduino libraries are installed before uploading the code:
 
